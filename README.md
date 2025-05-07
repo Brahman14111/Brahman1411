@@ -1,6 +1,6 @@
 # Hello World!, I'm Khushi, a Indian Developer 👋🏼:
 
-<img src="visitingcard.png" alt="GitHub Banner" width="100%" />
+<img src="profilecard.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
 👋 About Me<br>Hi, I'm a passionate Web Developer and UI/UX Designer who loves building modern, responsive, and user-friendly websites. I specialize in creating seamless digital experiences with clean code and creative design.<br><br>💻 Frontend: HTML, CSS, Tailwind CSS, JavaScript<br><br>🎨 UI/UX: Intuitive design, responsive layouts, and smooth user flows<br><br>🔧 Tools: Git, GitHub, Figma, VS Code<br><br>🚀 Currently exploring advanced frontend development and real-world UI projects<br><br>I enjoy turning ideas into real web experiences. Let’s build something awesome together!
