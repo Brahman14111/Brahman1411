@@ -24,13 +24,13 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nishant0001000&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Brahman14111&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 
 <h2>Contributions</h2>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nishant0001000&icon=4&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Brahman14111&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
